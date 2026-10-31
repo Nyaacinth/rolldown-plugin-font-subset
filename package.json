@@ -28,7 +28,7 @@
   },
   "type": "module",
   "dependencies": {
-    "subset-font": "^2.9.0"
+    "subset-font": "*"
   },
   "peerDependencies": {
     "rolldown": "*"
