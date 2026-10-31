@@ -1,0 +1,29 @@
+{
+  "name": "@nyaacinth/rolldown-plugin-font-subset",
+  "version": "1.0.0",
+  "description": "",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    }
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "Nyaacinth",
+  "license": "MIT",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.16.1",
+      "onFail": "download"
+    }
+  },
+  "type": "module",
+  "dependencies": {
+    "subset-font": "^2.9.0"
+  },
+  "peerDependencies": {
+    "rolldown": "*"
+  }
+}
