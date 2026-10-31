@@ -8,6 +8,13 @@
       "default": "./index.js"
     }
   },
+  "files": [
+    "index.d.ts",
+    "index.js",
+    "LICENSE",
+    "LICENSE_kymok",
+    "package.json"
+  ],
   "scripts": {},
   "keywords": [],
   "author": "Nyaacinth",
